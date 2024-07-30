@@ -1,0 +1,8 @@
+Quantum Approximate Optimization Algorithm for 3 qubits and MAX-CUT problem
+-------------------------------------------------------------------------------
+
+Uniform Superposition:
+  - Line 5 - 13
+
+Entanglement:
+  - Line 9 - 33

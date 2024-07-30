@@ -1,0 +1,10 @@
+GHZ state preparation on 4 qubits
+-----------------------------------
+
+Uniform superposition:
+  - Line 5
+  
+Entanglement:
+  - Line 6 - 9
+  
+Note: Line 6 is not an intended instance of Quantum Phase Estimation:
